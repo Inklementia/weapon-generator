@@ -1,2 +1,2 @@
 # WeaponGenerator
-procedural Weapon Generator (like in Borderlands) 
+Procedural Weapon Generator (like in Borderlands) 
